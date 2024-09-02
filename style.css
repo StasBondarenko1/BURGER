@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body {    
+
+background-color: #C31717;
+}
+.logo { 
+      width: 200px;
+   height: 100px;}
+.a1 {
+margin: 10px;
+text-decoration: none;
+color: white;
+}
+
+.button1 {width: 91px;
+height: 28px;
+left: 149px;top: 573px;
+font-style: normal;
+font-weight: 400;font-size: 20px;
+line-height: 20px;
+text-decoration: none;color: #000000;
+
+}
+.button2 {width: 91px;
+height: 28px;
+right: 412px;top: 573px;
+font-style: normal;
+font-weight: 400;font-size: 20px;
+line-height: 20px;text-decoration: none;
+color: #000000;}
+main h1 {
+text-align: center;
+font-style: normal;font-weight: 400;
+font-size: 48px;line-height: 56px;
+color: #000000;
+}
+.burger1 {
+width: 454px;height: 385px;
+left: 98px;top: 433px;
+background: url(image.png);}
+.burgers {
+    display: flex;}
+.descr_burgers{
+    display: flex;    flex-direction: column;
+    margin-left: 50px;
+    
+}
+
+.img_burger {
+  width: 200px;
+  background-color: white;
+  margin-top: 40px;
+}
+
+.img_burger2 {
+  margin: 25px;
+  width: 200px;
+  background-color: white;
+
+}
+
+.shares {
+ text-align: center;
+}
+
+.sandviches 
+{ 
+  display:flex; 
+} 
+.sandviches_descr 
+{ 
+  display: flex; 
+  flex-direction: column; 
+
+} 
+.sandviches_description 
+{ 
+   display: flex; 
+  justify-content: center; 
+  justify-content: space-between; 
+  justify-content: space-around; 
+}
+
+.about_us {
+  text-align: center;
+ 
+}
+
+.facebook {
+   width: 100px;
+  
+}
+ 
+
+.instagram {
+  width: 100px;
+  height: 100px;
+}
+
+header {
+background-color: #C31717;
+}
+
+main {
+  background-color: #FF5C00;
+}
+
+footer {
+  background-color: #E53C3C;
+}
